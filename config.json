@@ -1,4 +1,4 @@
 {
-  root: "localhost",
-  version: "1.0"
+  "root": "localhost",
+  "version": "1.0"
 }
